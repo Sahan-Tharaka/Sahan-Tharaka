@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 <h1 align="center">Hi 👋, I'm Sahan Tharaka</h1>
 <h3 align="center">A passionate frontend developer and a self-taught UI/UX Designer from Sri Lanka.</h3>
 
@@ -6,11 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahan-tharaka&label=Profile%20views&color=0e75b6&style=flat" alt="sahan-tharaka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahan-tharaka" alt="sahan-tharaka" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/sahantharaka99" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sahantharaka99?logo=twitter&style=for-the-badge" alt="https://twitter.com/sahantharaka99" /></a> </p>
-
-- 🔭 I’m currently working on **"Dilmah Tea" UK branch website redesign**
+- 🔭 I’m currently working on **"Dilmah Tea" UK Branch Website Redesign**
 
 - 🌱 I’m currently learning **UI/UX Design course in Google**
 
